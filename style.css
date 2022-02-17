@@ -1,0 +1,132 @@
+body {
+    font-size: 15pt;
+    margin-top: 6px;
+    text-align: center;
+    
+}
+.cloud-bottom{
+  position: absolute;
+  left: 120px;
+  top: 50px;
+}
+.top{
+  position: relative;
+  background-color: #E4F9F5;
+  text-align: center;
+  width: 1000px;
+  height:575px;
+  border: ridge;
+  margin-bottom: 0;
+}
+.cloud-top{
+  position: absolute;
+  right: 100px;
+  top:100px;
+}
+.mountain{
+  
+  
+  bottom: 1250px;
+  padding: 0;
+  width: 350px;
+}
+h1{
+ 
+}
+h2{
+  font-family: 'Merriweather', serif;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+.name{
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+  color: #90E0EF;
+}
+p{
+  font-family: 'Corben', cursive;
+}
+.pro{
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+  padding: 0;
+  color: #90E0EF;
+}
+.para1{
+  
+}
+.book{
+  width: 170px;
+  height: 170px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 50px;
+}
+.middle{
+text-align: center;
+width: 1000px;
+height:500px;
+background-color: #FBF8F1;
+border: ridge;
+
+position: relative;
+
+}
+table{
+  font-family: 'Corben', cursive;
+  
+  
+}
+.qualif{
+    font-family: 'Sacramento', cursive;
+    text-align: left;
+    color: #90E0EF;
+    font-size: 40px;
+}
+.middle{
+  position: relative;
+  bottom: 10px;
+  border: ridge;
+}
+.skill{
+  float: left;
+  width:  500px;
+  height: 500px;
+  
+}
+.bottom{
+  background-color: #C9CCD5;
+  position: relative;
+  bottom: 7px;
+  width: 1000px;
+  height: 500px;
+  border: ridge;
+  text-align: left;
+  font-family: 'Corben', cursive;
+
+}
+.skillhead{
+   font-family: 'Sacramento', cursive;
+   color: #BFFFF0;
+  font-size: 50px;
+
+}
+.contact-me{
+  width: 1000px;
+  height: 400px;
+  background-color: #FDEBF7;
+  position: relative;
+  bottom: 5px;
+  border: ridge;
+}
+.contact-me-head{
+     font-family: 'Sacramento', cursive;
+   color: #ACB992;
+  font-size: 50px;
+}
+.myphoto{
+  width: 120px;
+  height: 120px;
+}
